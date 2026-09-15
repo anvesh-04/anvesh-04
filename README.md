@@ -170,4 +170,74 @@ A tournament scheduling system designed to generate fixtures using algorithmic a
 
 <p align="center">
 
-<a href="https://github.com/anvesh-04?tab=re
+➡️ <a href="https://github.com/anvesh-04?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+# 💻 Competitive Programming
+
+<div align="center">
+
+<a href="https://leetcode.com/anvesh_gupta12/">
+<img src="https://img.shields.io/badge/LeetCode-anvesh__gupta12-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://codeforces.com/profile/a1nsh">
+<img src="https://img.shields.io/badge/Codeforces-a1nsh-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+</div>
+
+<p align="center">
+
+<strong>600+ DSA Problems Solved</strong>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/a1nsh___">
+<img src="https://skillicons.dev/icons?i=instagram" width="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/a1nsh">
+<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/anvesh_gupta12/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" />
+</a>
+
+</p>
+
+<p align="center">
+
+📫 <strong>Email:</strong> <a href="mailto:anshgupta.4k@gmail.com">[anshgupta.4k@gmail.com](mailto:anshgupta.4k@gmail.com)</a>
+
+🌐 <strong>Portfolio:</strong> <a href="https://anvesh-04.github.io/Portfolio/">anvesh-04.github.io/Portfolio</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💭 "First make it work. Then make it right. Then make it scale."
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7F00FF&height=100&section=footer" width="100%" />
+
+</div>
