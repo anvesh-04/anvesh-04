@@ -146,24 +146,24 @@ A tournament scheduling system designed to generate fixtures using algorithmic a
 
 <div align="center">
 
-<a href="https://github.com/anvesh-04/Anniversary-5th">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anvesh-04&repo=Anniversary-5th&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/anvesh-04/tournament-engine">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anvesh-04&repo=tournament-engine&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/anvesh-04/Story">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anvesh-04&repo=Story&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/anvesh-04/mern-rate-limiter">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anvesh-04&repo=mern-rate-limiter&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/anvesh-04/chessboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anvesh-04&repo=chessboard&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/anvesh-04/Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anvesh-04&repo=Portfolio&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/anvesh-04/Tindog">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anvesh-04&repo=Tindog&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/anvesh-04/Evaluation-Of-MultiModal-LLMs-for-Layout-Aware-Document-Parsing">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anvesh-04&repo=Evaluation-Of-MultiModal-LLMs-for-Layout-Aware-Document-Parsing&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -175,7 +175,6 @@ A tournament scheduling system designed to generate fixtures using algorithmic a
 </a>
 
 </p>
-
 ---
 
 # 💻 Competitive Programming
